@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperdave",
+        "uuid": 1457500,
+        "checksum": "df9op9"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
